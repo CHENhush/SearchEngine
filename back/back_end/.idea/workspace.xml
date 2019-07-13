@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aca3a2e4-54bf-4e7f-8ff2-562c2809fb89" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/aaaa/target/" />
+    <ignored path="$PROJECT_DIR$/_123/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="search-final" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/entity/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="27" column="35" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/mapper/CommentMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/mapper/UserMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/controller/CommentController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="574">
+              <caret line="33" column="56" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/entity/Comment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/controller/MovieController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1741#1742#0" expanded="true" />
+                <element signature="e#1798#1799#0" expanded="true" />
+                <element signature="e#1917#1918#0" expanded="true" />
+                <element signature="e#1976#1977#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/impl/MovieServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1188">
+              <caret line="87" column="60" selection-start-line="87" selection-start-column="60" selection-end-line="87" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getAllHighlightFragments#0;class#MovieServiceImpl#0" />
+                <element signature="method#printExplanation#0;class#MovieServiceImpl#0" />
+                <element signature="method#search#0;class#MovieServiceImpl#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2970">
+              <caret line="132" column="56" selection-start-line="132" selection-start-column="56" selection-end-line="132" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/MovieService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>org.springframework.web</find>
+      <find>user</find>
+      <find>com.thetransactioncompany</find>
+      <find>spring-data-redis</find>
+      <find>elas</find>
+      <find>requestBuilder</find>
+      <find>elasticsearchTemplate</find>
+      <find>listRealTimeHotSearch</find>
+      <find>mapper</find>
+      <find>mysql</find>
+      <find>el</find>
+      <find>pancx</find>
+      <find>mybatis-generator-maven-plugin</find>
+      <find>mysql-connector-java</find>
+      <find>my_index</find>
+      <find>redis</find>
+      <find>spring.data.elasticsearch.cluster-name</find>
+      <find>elasticsearch</find>
+      <find>regionId</find>
+      <find>test</find>
+      <find>spring-boot-starter</find>
+      <find>spring-web</find>
+      <find>spring-boot-starter-data-redis</find>
+      <find>spring-boot-starter-web</find>
+      <find>releaseDate</find>
+      <find>AVG</find>
+      <find>countGroupByYear</find>
+      <find>realTimeHotSearch</find>
+      <find>avatar</find>
+      <find>artifactId</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Movie</replace>
+      <replace>zucc</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Administrator\Desktop\project\IdeaProjects\search-final\src\main\java\cn\pancx\searchfinal\repository</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/util/redisUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/util/CookieUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/util/JsonUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/vo/ArticleSuggestionVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/vo/ResponseResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/vo/WordCloudItemVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/vo/graph/GraphEdgeVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/vo/graph/GraphNodeVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/vo/graph/GraphVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/mapper/MovieMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/mapper/CommentMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/generator.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/CommonService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/GraphService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/RecommenderService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/config/CORSInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/controller/RecommenderController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/entity/Comment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/vo/MovieSearchItemVO.java" />
+        <option value="$PROJECT_DIR$/target/classes/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/SearchFinalApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/entity/EchartElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/MovieService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/controller/MovieController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/vo/ActorMovieVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/impl/CommonServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/vo/PageResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fastSimRank/mysql/SQLConnection.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/fastSimRank/mysql/SQLConnection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/fastSimRank/fastSim/util/Config.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/fastSimRank/redis/util/RedisOperation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/CommentService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/impl/CommentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/fastSimRank/fastSim/data/Graph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/fastSimRank/fastSim/exec/Online.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/fastSimRank/Recommend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/util/ChineseUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/controller/CommentController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/entity/Movie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/mapper/MovieMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/mapper/CommentMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/impl/MovieServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/controller/UserController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\software\CodeSoftware\IntelliJ IDEA 2018.3.2\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ss" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ss" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ss" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="118" />
+    <option name="y" value="166" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ss" type="58d84e3e:PackageViewProjectNode" />
+              <item name="ss" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="ss" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="ss" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="searchfinal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="searchfinal" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="searchfinal" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="searchfinal" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="searchfinal" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="searchfinal" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="searchfinal" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://C:/software/development environment/apache-maven-3.5.4/repo/org/springframework/data/spring-data-commons/2.1.5.RELEASE/spring-data-commons-2.1.5.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562921431341" />
+    <property name="dynamic.classpath" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/cn/pancx/searchfinal/service" />
+    <property name="last_opened_file_path" value="F:/CD/大三下/搜索引擎/大作业/搜索" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.pancx.searchfinal.entity" />
+      <recent name="cn.pancx.searchfinal.vo" />
+      <recent name="cn.pancx.searchfinal.repository" />
+      <recent name="cn.pancx.searchfinal.service.impl" />
+      <recent name="cn.pancx.searchfinal.entity.relation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\ss\src\main\java\cn\zucc\searchfinal\fastSimRank" />
+      <recent name="C:\Users\lenovo\Desktop\ss\src\main\java" />
+      <recent name="C:\Users\lenovo\Desktop\ss\src\main\java\cn\pancx\searchfinal\mapper" />
+      <recent name="C:\Users\lenovo\Desktop\ss\src\main\java\cn\pancx\searchfinal\entity" />
+      <recent name="C:\Users\lenovo\Desktop\ss\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SearchFinalApplication (2)">
+    <configuration name="ChineseUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.zucc.searchfinal.util.ChineseUtils" />
+      <module name="ss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.zucc.searchfinal.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Online" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.zucc.searchfinal.fastSimRank.fastSim.exec.Online" />
+      <module name="ss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.zucc.searchfinal.fastSimRank.fastSim.exec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.zucc.searchfinal.fastSimRank.redis.util.RedisOperation" />
+      <module name="ss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.zucc.searchfinal.fastSimRank.redis.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SQLConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.zucc.searchfinal.fastSimRank.mysql.SQLConnection" />
+      <module name="ss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.zucc.searchfinal.fastSimRank.mysql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ss [mybatis-generator:generate,-e]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="SearchFinalApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.zucc.searchfinal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.zucc.searchfinal.SearchFinalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchFinalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="search-final" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.pancx.searchfinal.SearchFinalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RedisOperation" />
+      <item itemvalue="Application.SQLConnection" />
+      <item itemvalue="Application.Online" />
+      <item itemvalue="Application.ChineseUtils" />
+      <item itemvalue="Maven.ss [mybatis-generator:generate,-e]" />
+      <item itemvalue="Spring Boot.SearchFinalApplication" />
+      <item itemvalue="Spring Boot.SearchFinalApplication (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SearchFinalApplication (2)" />
+        <item itemvalue="Application.ChineseUtils" />
+        <item itemvalue="Application.Online" />
+        <item itemvalue="Application.RedisOperation" />
+        <item itemvalue="Application.SQLConnection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aca3a2e4-54bf-4e7f-8ff2-562c2809fb89" name="Default Changelist" comment="" />
+      <created>1551615074554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551615074554</updated>
+      <workItem from="1551615080330" duration="33292000" />
+      <workItem from="1551688722318" duration="24224000" />
+      <workItem from="1551770472162" duration="4843000" />
+      <workItem from="1551778241206" duration="14525000" />
+      <workItem from="1551836653279" duration="35344000" />
+      <workItem from="1552287770474" duration="35817000" />
+      <workItem from="1552438487105" duration="14543000" />
+      <workItem from="1552470423659" duration="51946000" />
+      <workItem from="1552719580780" duration="129000" />
+      <workItem from="1552719720011" duration="11513000" />
+      <workItem from="1552795669574" duration="42019000" />
+      <workItem from="1552907442376" duration="15122000" />
+      <workItem from="1552996207584" duration="14091000" />
+      <workItem from="1553046364138" duration="21920000" />
+      <workItem from="1553110766612" duration="2209000" />
+      <workItem from="1553153777515" duration="2215000" />
+      <workItem from="1553163300889" duration="37073000" />
+      <workItem from="1553783683488" duration="25787000" />
+      <workItem from="1554198959042" duration="16396000" />
+      <workItem from="1554293890794" duration="1992000" />
+      <workItem from="1554848861541" duration="11734000" />
+      <workItem from="1558617673856" duration="716000" />
+      <workItem from="1559021111123" duration="23858000" />
+      <workItem from="1559341831762" duration="4611000" />
+      <workItem from="1559730450579" duration="2904000" />
+      <workItem from="1560578562238" duration="393000" />
+      <workItem from="1560708060605" duration="4530000" />
+      <workItem from="1562032428371" duration="2304000" />
+      <workItem from="1562049064198" duration="1552000" />
+      <workItem from="1562050784247" duration="20127000" />
+      <workItem from="1562115063922" duration="3516000" />
+      <workItem from="1562128046162" duration="1660000" />
+      <workItem from="1562132830698" duration="16086000" />
+      <workItem from="1562169605517" duration="373000" />
+      <workItem from="1562169999799" duration="281000" />
+      <workItem from="1562170303024" duration="1136000" />
+      <workItem from="1562171461565" duration="499000" />
+      <workItem from="1562172002218" duration="66000" />
+      <workItem from="1562172088477" duration="5331000" />
+      <workItem from="1562178069992" duration="21492000" />
+      <workItem from="1562243702935" duration="13264000" />
+      <workItem from="1562266501083" duration="68460000" />
+      <workItem from="1562944188543" duration="1083000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MovieMapperTest_test - 2019.03.29 at 04h 07m 30s.xml">
+      <configuration name="MovieMapperTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MovieServiceTest_testSaveTo - 2019.03.29 at 04h 09m 20s.xml">
+      <configuration name="MovieServiceTest.testSaveTo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MongoTemplateTest_loadw2v - 2019.03.29 at 13h 30m 12s.xml">
+      <configuration name="MongoTemplateTest.loadw2v" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MongoTemplateTest_loadw2v - 2019.03.29 at 13h 32m 06s.xml">
+      <configuration name="MongoTemplateTest.loadw2v" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MongoTemplateTest_test - 2019.03.29 at 13h 36m 31s.xml">
+      <configuration name="MongoTemplateTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MongoTemplateTest_loadw2v - 2019.04.10 at 08h 46m 21s.xml">
+      <configuration name="MongoTemplateTest.loadw2v" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MongoTemplateTest_loadw2v - 2019.04.10 at 08h 48m 01s.xml">
+      <configuration name="MongoTemplateTest.loadw2v" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Neo4jTest - 2019.07.02 at 11h 56m 48s.xml">
+      <configuration name="Neo4jTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Neo4jTest - 2019.07.02 at 14h 37m 04s.xml">
+      <configuration name="Neo4jTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="redisUtil_(1) - 2019.07.04 at 02h 06m 21s.xml">
+      <configuration name="redisUtil (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="610976000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.86372364" visible="true" weight="0.1924307" />
+      <window_info id="Favorites" order="1" sideWeight="0.1362764" side_tool="true" weight="0.19029851" />
+      <window_info id="Structure" order="2" sideWeight="0.5029412" side_tool="true" weight="0.18632708" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4989339" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8208955" visible="true" weight="0.4355363" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.35536295" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4936034" weight="0.22535211" />
+      <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.49733475" weight="0.32827735" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49520257" weight="0.4582882" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.17910448" side_tool="true" visible="true" weight="0.4355363" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.47014925" weight="0.33261105" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" sideWeight="0.49733475" weight="0.32827735" />
+      <window_info anchor="bottom" id="Problems" order="14" sideWeight="0.4968017" weight="0.32936078" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="15" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="CDI" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Bean Validation" order="2" weight="0.3297587" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.39678285" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Mybatis datasource" order="11" side_tool="true" weight="0.32997987" />
+      <window_info anchor="right" id="Maven" order="12" visible="true" weight="0.08848614" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/pancx/searchfinal/service/CommonService.java</url>
+          <line>11</line>
+          <properties class="cn.pancx.searchfinal.service.CommonService">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="nFrom.out.add(nTo)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>nFrom.out.add(nTo)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/vo/MovieSearchItemVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/vo/graph/GraphVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/vo/PageResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1863">
+          <caret line="87" column="21" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper-base/1.0.5/mapper-base-1.0.5.jar!/tk/mybatis/mapper/common/example/SelectByExampleMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/vo/ResponseResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fastSimRank/mysql/SQLConnection.java" />
+    <entry file="uml://MAVEN/groupId:ss:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>groupId:ss:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">groupId:ss:1.0-SNAPSHOT</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:5.1.8.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:5.1.8.RELEASE/org.springframework:spring-aop:jar:5.1.8.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:5.1.8.RELEASE/org.springframework:spring-beans:jar:5.1.8.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:5.1.8.RELEASE/org.springframework:spring-context:jar:5.1.8.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:5.1.8.RELEASE/org.springframework:spring-core:jar:5.1.8.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:5.1.8.RELEASE/org.springframework:spring-core:jar:5.1.8.RELEASE/org.springframework:spring-jcl:jar:5.1.8.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:5.1.8.RELEASE/org.springframework:spring-expression:jar:5.1.8.RELEASE</node>
+            <node x="" y="">org.springframework:spring-web:jar:5.1.8.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.6.RELEASE/org.springframework.boot:spring-boot-test:jar:2.1.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.6.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.1.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2/org.ow2.asm:asm:jar:5.0.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/org.slf4j:slf4j-api:jar:1.7.26</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.6.RELEASE/org.assertj:assertj-core:jar:3.11.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.6.RELEASE/org.mockito:mockito-core:jar:2.23.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.6.RELEASE/org.mockito:mockito-core:jar:2.23.4/net.bytebuddy:byte-buddy:jar:1.9.13</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.6.RELEASE/org.mockito:mockito-core:jar:2.23.4/net.bytebuddy:byte-buddy-agent:jar:1.9.13</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.6.RELEASE/org.mockito:mockito-core:jar:2.23.4/org.objenesis:objenesis:jar:2.6</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.6.RELEASE/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.6.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.6.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.6.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.6.RELEASE/org.springframework:spring-test:jar:5.1.8.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.6.RELEASE/org.xmlunit:xmlunit-core:jar:2.6.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.6.RELEASE/org.springframework.boot:spring-boot:jar:2.1.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.6.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.1.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.6.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.6.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.6.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.11.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.6.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.26</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.6.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.6.RELEASE/org.yaml:snakeyaml:jar:1.23</node>
+            <node x="" y="">com.hankcs:hanlp:jar:portable-1.7.2</node>
+            <node x="" y="">org.projectlombok:lombok:jar:1.18.8</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.4.RELEASE/org.springframework.data:spring-data-redis:jar:2.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.4.RELEASE/org.springframework.data:spring-data-redis:jar:2.1.9.RELEASE/org.springframework.data:spring-data-keyvalue:jar:2.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.4.RELEASE/org.springframework.data:spring-data-redis:jar:2.1.9.RELEASE/org.springframework:spring-tx:jar:5.1.8.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.4.RELEASE/org.springframework.data:spring-data-redis:jar:2.1.9.RELEASE/org.springframework:spring-oxm:jar:5.1.8.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.4.RELEASE/org.springframework.data:spring-data-redis:jar:2.1.9.RELEASE/org.springframework:spring-context-support:jar:5.1.8.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.4.RELEASE/io.lettuce:lettuce-core:jar:5.1.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.4.RELEASE/io.lettuce:lettuce-core:jar:5.1.7.RELEASE/io.netty:netty-common:jar:4.1.36.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.4.RELEASE/io.lettuce:lettuce-core:jar:5.1.7.RELEASE/io.netty:netty-handler:jar:4.1.36.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.4.RELEASE/io.lettuce:lettuce-core:jar:5.1.7.RELEASE/io.netty:netty-transport:jar:4.1.36.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.4.RELEASE/io.lettuce:lettuce-core:jar:5.1.7.RELEASE/io.projectreactor:reactor-core:jar:3.2.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.4.RELEASE/io.lettuce:lettuce-core:jar:5.1.7.RELEASE/io.projectreactor:reactor-core:jar:3.2.10.RELEASE/org.reactivestreams:reactive-streams:jar:1.0.2</node>
+            <node x="" y="">redis.clients:jedis:jar:2.9.0</node>
+            <node x="" y="">redis.clients:jedis:jar:2.9.0/org.apache.commons:commons-pool2:jar:2.6.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-elasticsearch:jar:2.1.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-elasticsearch:jar:2.1.6.RELEASE/org.springframework.data:spring-data-elasticsearch:jar:3.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-elasticsearch:jar:2.1.6.RELEASE/org.springframework.data:spring-data-elasticsearch:jar:3.1.9.RELEASE/org.springframework.data:spring-data-commons:jar:2.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-elasticsearch:jar:2.1.6.RELEASE/org.springframework.data:spring-data-elasticsearch:jar:3.1.9.RELEASE/com.fasterxml.jackson.core:jackson-core:jar:2.9.9</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-elasticsearch:jar:2.1.6.RELEASE/org.springframework.data:spring-data-elasticsearch:jar:3.1.9.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.9</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-elasticsearch:jar:2.1.6.RELEASE/org.springframework.data:spring-data-elasticsearch:jar:3.1.9.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.9/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.elasticsearch:elasticsearch-core:jar:6.4.3</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.elasticsearch:elasticsearch-secure-sm:jar:6.4.3</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.elasticsearch:elasticsearch-x-content:jar:6.4.3</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.elasticsearch:elasticsearch-x-content:jar:6.4.3/com.fasterxml.jackson.dataformat:jackson-dataformat-smile:jar:2.9.9</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.elasticsearch:elasticsearch-x-content:jar:6.4.3/com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:jar:2.9.9</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.elasticsearch:elasticsearch-x-content:jar:6.4.3/com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:jar:2.9.9</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.apache.lucene:lucene-core:jar:7.4.0</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.apache.lucene:lucene-analyzers-common:jar:7.4.0</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.apache.lucene:lucene-backward-codecs:jar:7.4.0</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.apache.lucene:lucene-grouping:jar:7.4.0</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.apache.lucene:lucene-highlighter:jar:7.4.0</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.apache.lucene:lucene-join:jar:7.4.0</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.apache.lucene:lucene-memory:jar:7.4.0</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.apache.lucene:lucene-misc:jar:7.4.0</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.apache.lucene:lucene-queries:jar:7.4.0</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.apache.lucene:lucene-queryparser:jar:7.4.0</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.apache.lucene:lucene-sandbox:jar:7.4.0</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.apache.lucene:lucene-spatial:jar:7.4.0</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.apache.lucene:lucene-spatial-extras:jar:7.4.0</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.apache.lucene:lucene-spatial3d:jar:7.4.0</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.apache.lucene:lucene-suggest:jar:7.4.0</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.elasticsearch:elasticsearch-cli:jar:6.4.3</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.elasticsearch:elasticsearch-cli:jar:6.4.3/net.sf.jopt-simple:jopt-simple:jar:5.0.2</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/com.carrotsearch:hppc:jar:0.7.1</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/joda-time:joda-time:jar:2.10.2</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/com.tdunning:t-digest:jar:3.2</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.hdrhistogram:HdrHistogram:jar:2.1.9</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.apache.logging.log4j:log4j-api:jar:2.11.2</node>
+            <node x="" y="">org.elasticsearch:elasticsearch:jar:6.4.3/org.elasticsearch:jna:jar:4.5.1</node>
+            <node x="" y="">org.elasticsearch.client:transport:jar:6.4.3</node>
+            <node x="" y="">org.elasticsearch.client:transport:jar:6.4.3/org.elasticsearch.plugin:transport-netty4-client:jar:6.4.3</node>
+            <node x="" y="">org.elasticsearch.client:transport:jar:6.4.3/org.elasticsearch.plugin:transport-netty4-client:jar:6.4.3/io.netty:netty-buffer:jar:4.1.36.Final</node>
+            <node x="" y="">org.elasticsearch.client:transport:jar:6.4.3/org.elasticsearch.plugin:transport-netty4-client:jar:6.4.3/io.netty:netty-codec:jar:4.1.36.Final</node>
+            <node x="" y="">org.elasticsearch.client:transport:jar:6.4.3/org.elasticsearch.plugin:transport-netty4-client:jar:6.4.3/io.netty:netty-codec-http:jar:4.1.36.Final</node>
+            <node x="" y="">org.elasticsearch.client:transport:jar:6.4.3/org.elasticsearch.plugin:transport-netty4-client:jar:6.4.3/io.netty:netty-resolver:jar:4.1.36.Final</node>
+            <node x="" y="">org.elasticsearch.client:transport:jar:6.4.3/org.elasticsearch.plugin:reindex-client:jar:6.4.3</node>
+            <node x="" y="">org.elasticsearch.client:transport:jar:6.4.3/org.elasticsearch.plugin:reindex-client:jar:6.4.3/org.elasticsearch.client:elasticsearch-rest-client:jar:6.4.3</node>
+            <node x="" y="">org.elasticsearch.client:transport:jar:6.4.3/org.elasticsearch.plugin:reindex-client:jar:6.4.3/org.elasticsearch.client:elasticsearch-rest-client:jar:6.4.3/org.apache.httpcomponents:httpclient:jar:4.5.9</node>
+            <node x="" y="">org.elasticsearch.client:transport:jar:6.4.3/org.elasticsearch.plugin:reindex-client:jar:6.4.3/org.elasticsearch.client:elasticsearch-rest-client:jar:6.4.3/org.apache.httpcomponents:httpcore:jar:4.4.11</node>
+            <node x="" y="">org.elasticsearch.client:transport:jar:6.4.3/org.elasticsearch.plugin:reindex-client:jar:6.4.3/org.elasticsearch.client:elasticsearch-rest-client:jar:6.4.3/org.apache.httpcomponents:httpasyncclient:jar:4.1.4</node>
+            <node x="" y="">org.elasticsearch.client:transport:jar:6.4.3/org.elasticsearch.plugin:reindex-client:jar:6.4.3/org.elasticsearch.client:elasticsearch-rest-client:jar:6.4.3/org.apache.httpcomponents:httpcore-nio:jar:4.4.11</node>
+            <node x="" y="">org.elasticsearch.client:transport:jar:6.4.3/org.elasticsearch.plugin:reindex-client:jar:6.4.3/org.elasticsearch.client:elasticsearch-rest-client:jar:6.4.3/commons-codec:commons-codec:jar:1.11</node>
+            <node x="" y="">org.elasticsearch.client:transport:jar:6.4.3/org.elasticsearch.plugin:lang-mustache-client:jar:6.4.3</node>
+            <node x="" y="">org.elasticsearch.client:transport:jar:6.4.3/org.elasticsearch.plugin:lang-mustache-client:jar:6.4.3/com.github.spullara.mustache.java:compiler:jar:0.9.3</node>
+            <node x="" y="">org.elasticsearch.client:transport:jar:6.4.3/org.elasticsearch.plugin:percolator-client:jar:6.4.3</node>
+            <node x="" y="">org.elasticsearch.client:transport:jar:6.4.3/org.elasticsearch.plugin:parent-join-client:jar:6.4.3</node>
+            <node x="" y="">org.elasticsearch.client:transport:jar:6.4.3/org.elasticsearch.plugin:rank-eval-client:jar:6.4.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.6.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.9</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.6.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.9</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.6.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.9</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:9.0.21</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:9.0.21</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:9.0.21</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.6.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.17.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.6.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.17.Final/javax.validation:validation-api:jar:2.0.1.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.6.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.17.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.6.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.17.Final/com.fasterxml:classmate:jar:1.4.0</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:2.0.4</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:2.0.4/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.6.RELEASE</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:2.0.4/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.6.RELEASE/com.zaxxer:HikariCP:jar:3.2.0</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:2.0.4/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.6.RELEASE/org.springframework:spring-jdbc:jar:5.1.8.RELEASE</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:2.0.4/org.mybatis:mybatis:jar:3.4.6</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:2.0.4/org.mybatis:mybatis-spring:jar:1.3.2</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:2.0.4/tk.mybatis:mapper-core:jar:1.0.5</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:2.0.4/tk.mybatis:mapper-core:jar:1.0.5/javax.persistence:persistence-api:jar:1.0</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:2.0.4/tk.mybatis:mapper-base:jar:1.0.5</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:2.0.4/tk.mybatis:mapper-weekend:jar:1.1.4.1</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:2.0.4/tk.mybatis:mapper-spring:jar:1.0.5</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:2.0.4/tk.mybatis:mapper-extra:jar:1.0.5</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:2.0.4/tk.mybatis:mapper-spring-boot-autoconfigure:jar:2.0.4</node>
+            <node x="" y="">org.apache.commons:commons-lang3:jar:3.5</node>
+            <node x="" y="">junit:junit:jar:4.12</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:8.0.16</node>
+            <node x="" y="">com.github.pagehelper:pagehelper:jar:4.1.5</node>
+            <node x="" y="">com.github.pagehelper:pagehelper:jar:4.1.5/com.github.jsqlparser:jsqlparser:jar:0.9.5</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.1" x="5952.0" y="829.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="136" selection-start-line="136" selection-end-line="136" />
+          <folding>
+            <element signature="n#dependency#3;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#4;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#5;n#dependencies#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/fastSimRank/redis/util/bean/SaveEdge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/fastSimRank/mysql/SQLConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/fastSimRank/mysql/mysqlOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/fastSimRank/redis/util/RedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/fastSimRank/redis/util/TestRedis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3908">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/fastSimRank/fastSim/util/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/fastSimRank/fastSim/exec/Offline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="116" selection-start-line="13" selection-start-column="96" selection-end-line="13" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/fastSimRank/fastSim/data/PrimeSim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="82" column="31" lean-forward="true" selection-start-line="82" selection-start-column="31" selection-end-line="82" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/fastSimRank/fastSim/data/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="348" selection-start-line="348" selection-end-line="348" />
+          <folding>
+            <element signature="e#13331#13332#0" expanded="true" />
+            <element signature="e#13402#13403#0" expanded="true" />
+            <element signature="e#13481#13482#0" expanded="true" />
+            <element signature="e#13568#13569#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/fastSimRank/fastSim/core/QueryProcessor2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="281" selection-start-line="281" selection-end-line="281" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/fastSimRank/fastSim/exec/Online.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/fastSimRank/Recommend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="10" column="83" selection-start-line="10" selection-start-column="83" selection-end-line="10" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/query/MovieSearchQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/GraphService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/util/CookieUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/util/JsonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/util/redisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/vo/ActorMovieVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/CommonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/vo/ArticleSuggestionVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/impl/CommonServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="46" column="32" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/CommentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.4.3/elasticsearch-6.4.3.jar!/org/elasticsearch/search/SearchHit.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="74" column="38" selection-start-line="74" selection-start-column="38" selection-end-line="74" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/impl/CommentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="123" lean-forward="true" selection-start-line="123" selection-end-line="123" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4816#4817#0" expanded="true" />
+            <element signature="e#4876#4877#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/util/ChineseUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/RecommenderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/entity/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2784">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1056#1104#0" />
+            <element signature="e#1139#1184#0" />
+            <element signature="e#1270#1316#0" />
+            <element signature="e#1351#1398#0" />
+            <element signature="e#2797#2798#0" expanded="true" />
+            <element signature="e#2825#2826#0" expanded="true" />
+            <element signature="e#4346#13115#0" />
+            <element signature="e#13214#15637#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/SearchFinalApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/fastSimRank/redis/util/RedisOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="82" column="27" lean-forward="true" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/mapper/MovieMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/mapper/CommentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/entity/Comment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/controller/MovieController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1741#1742#0" expanded="true" />
+            <element signature="e#1798#1799#0" expanded="true" />
+            <element signature="e#1917#1918#0" expanded="true" />
+            <element signature="e#1976#1977#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/impl/MovieServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="87" column="60" selection-start-line="87" selection-start-column="60" selection-end-line="87" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getAllHighlightFragments#0;class#MovieServiceImpl#0" />
+            <element signature="method#printExplanation#0;class#MovieServiceImpl#0" />
+            <element signature="method#search#0;class#MovieServiceImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2970">
+          <caret line="132" column="56" selection-start-line="132" selection-start-column="56" selection-end-line="132" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/service/MovieService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zucc/searchfinal/controller/CommentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="33" column="56" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>_123</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
